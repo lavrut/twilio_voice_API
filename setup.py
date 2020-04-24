@@ -1,3 +1,6 @@
+# Source Reference: https://www.twilio.com/docs/voice/quickstart/python#make-an-outgoing-phone-call-with-python
+# The purpose of this code is to enable outgoing calls using twilio voice API
+
 from __future__ import with_statement
 from setuptools import setup, find_packages
 
